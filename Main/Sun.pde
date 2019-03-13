@@ -24,7 +24,7 @@ void display()
   push();
   fill(#FC2121);
   stroke(255);
-  ellipse(pos.x,pos.y, 20,20);
+  ellipse(pos.x,pos.y, m/5,m/5);
   pop();
 }
 
