@@ -1,2 +1,2 @@
 # Gravity_Simulation
-A program in java (processing) simulating a gravitacional forces in a solar system
+A program simulating gravitacional forces in a solar system, can create some interesting patterns.
